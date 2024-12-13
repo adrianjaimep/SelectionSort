@@ -2,6 +2,13 @@ package ioc.xtec.cat.selectionsort;
 
 public class SelectionSort {
 
+    
+     public static void main(String[] args) {
+        System.out.println("Adrian Jaime Paniagua");
+        System.out.println("He aprés molt fent el mòdul 8 de DAW, encara que hagi estat dur!!!");
+        // La resta del teu codi de l'algorisme SelectionSort...
+    }
+     
    public void sort(int[] arr) {
         int n = arr.length;
 
